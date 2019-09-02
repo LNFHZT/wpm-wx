@@ -1,0 +1,16 @@
+{
+  "name": "wpm-wx",
+  "version": "0.0.4",
+  "description": "微信小程序集成扩展vue部分功能",
+  "keywords":["vue","微信","wx","wpm","小程序"],
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run tswatch",
+    "tsc": "tsc",
+    "tswatch": "tsc -w"
+  },
+  "devDependencies": {},
+  "author": "vis",
+  "license": "MIT"
+}
